@@ -1,0 +1,39 @@
+CREATE DATABASE Dolgozok;
+DEFAULT CHARACTER SET utf8;
+COLLATE utf8_hungarian_ci;
+
+USE Dolgozok;
+
+CREATE TABLE Dolgozo (
+    torzsszam varchar(20) PRIMARY KEY NOT NULL,
+    nev varchar(20) NOT NULL,
+    szulhely varchar(20) NOT NULL,
+    szulido date NOT NULL,
+    fizetes int(10) NOT NULL
+)
+
+INSERT INTO dolgozo (torzsszam, nev, szulhely, szulido, fizetes) VALUES
+('T234578', 'Kiss István', 'Eger', '1968-12-11', 120000),
+('T456734', 'Nagy József', 'Budapest', '1972-01-30', 150000),
+('T429877', 'Kovács János', 'Szeged', '1967-05-12', 120000)
+
+
+SELECT * FROM `dolgozo` 
+SELECT nev FROM `dolgozo`
+SELECT sum(fizetes) as "összes_fizetés" FROM `dolgozo`
+SELECT avg(fizetes) as "átlag_fizetés" FROM `dolgozo`
+SELECT count(fizetes) as "darabszám_fizetés" FROM `dolgozo`
+SELECT min(fizetes) as "legkissebb_fizetés" FROM `dolgozo`
+SELECT max(fizetes) as "legnagyobb_fizetés" FROM `dolgozo`
+SELECT nev, fizetes, fizetes *1.1 as "emelt_fizetés" FROM `dolgozo`
+SELECT DISTINCT fizetes  FROM `dolgozo`
+
+SELECT sum(fizetes) as "összes_fizetés",avg(fizetes) as "átlag_fizetés",count(fizetes) as "darabszám_fizetés" FROM `dolgozo`
+SELECT nev, left(szulido,4) as "szuletési_év" FROM `dolgozo`
+
+SELECT nev, fizetes as "fizetés" FROM `dolgozo` WHERE fizetes >=150000
+
+SELECT nev, fizetes as "fizetés" FROM `dolgozo` WHERE fizetes >=100000 and szulido >= 1960-01-01
+
+SELECT nev, fizetes as "fizetés", szulido FROM `dolgozo` WHERE fizetes >=100000 and szulido >= 1960-01-01
+    

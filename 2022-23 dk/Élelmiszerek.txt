@@ -1,0 +1,50 @@
+"Cikkszám"	"Megnevezés"	"Energia"	"Gyártás"	"Sz_idõ"	"Egység"	"Egységár"	"Mennyiség"	"Kategória"	"Diétás"
+36	"Milka csokoládé"	1400	2000.9.24 17:01:53	4	"10 dkg-s tábla"	150,00 Ft	2500,00	"édesség"	0
+37	"Csoki télapó"	520	2000.6.11 0:00:00	4	"db"	80,00 Ft	500,00	"édesség"	0
+38	"Tejszínes puding"	200	2000.5.23 0:00:00	1	"pohár"	56,00 Ft	500,00	"édesség"	1
+39	"Milka télapó"	2000	2000.9.24 17:03:56	6	"db"	480,00 Ft	200,00	"édesség"	0
+40	"Kadarka"	2500	2000.7.24 17:04:18	12	"0,7 l-es üveg"	210,00 Ft	300,00	"szeszes ital"	0
+41	"Szürkebarát"	2400	2000.7.24 17:04:54	24	"0,7 l-es üveg"	260,00 Ft	250,00	"szeszes ital"	0
+42	"Egri bikavér"	2600	2000.9.24 17:05:18	24	"0,7 l-es üveg"	290,00 Ft	180,00	"szeszes ital"	0
+43	"Fanta"	1200	2000.8.24 17:05:50	12	"2 l-es üveg"	150,00 Ft	240,00	"üdítõital"	1
+44	"Pepsi cola"	800	2000.7.24 17:06:33	12	"2 l-es üveg"	145,00 Ft	410,00	"üdítõital"	0
+45	"Borsodi sör"	2100	2000.9.24 17:07:37	2	"0,5 l-es üveg"	78,00 Ft	240,00	"szeszes ital"	0
+46	"Arany ászok sör"	2000	2000.8.24 17:08:46	3	"0,5 l-es üveg"	84,00 Ft	350,00	"szeszes ital"	0
+47	"Talléros sör"	2050	2000.9.24 17:09:21	2	"0,5 l-es üveg"	82,00 Ft	400,00	"szeszes ital"	0
+48	"Tehéntúró"	850	2000.9.24 17:10:05	1	"0,5 kg"	140,00 Ft	60,00	"tej, tejtermék"	1
+49	"Pick szalámi"	3100	2000.9.24 17:10:36	3	"kg"	2600,00 Ft	50,00	"felvágott"	0
+50	"Paprikás szalámi"	3100	2000.9.24 17:11:30	3	"kg"	2300,00 Ft	0,00	"felvágott"	0
+1	"Trappista sajt"	1048	2000.7.12 0:00:00	12	"kg"	900,00 Ft	6,80	"tej, tejtermék"	0
+2	"Coca Cola Light"	150	2000.4.5 0:00:00	18	"2 l-es palack"	155,00 Ft	240,00	"üdítõital"	1
+3	"Rizs"	850	2000.1.22 14:02:45	12	"kg"	180,00 Ft	185,00	"alapvetõ élelmiszer"	0
+4	"Liszt"	645	2000.7.20 0:00:00	12	"kg"	65,00 Ft	1120,00	"alapvetõ élelmiszer"	0
+5	"Kristály cukor"	2500	2000.9.24 14:27:20	36	"kg"	150,00 Ft	250,00	"alapvetõ élelmiszer"	0
+7	"Porcukor"	2500	2000.4.26 0:00:00	12	"kg"	160,00 Ft	60,00	"alapvetõ élelmiszer"	0
+8	"Tarhonya"	800	2000.2.24 14:28:49	12	"kg"	280,00 Ft	65,00	"tészta"	0
+9	"Só"	10	1999.7.25 0:00:00	60	"kg"	24,00 Ft	100,00	"fûszer"	0
+10	"Piros paprika"	540	2000.7.1 0:00:00	12	"10 dkg-s csomag"	95,00 Ft	145,00	"fûszer"	0
+11	"Danon joghurt"	50	2000.9.24 14:30:50	1	"2 dl-es pohár"	54,00 Ft	250,00	"tej, tejtermék"	1
+12	"1 %-os tartós tej"	420	2000.5.29 0:00:00	2	"l"	125,00 Ft	500,00	"tej, tejtermék"	1
+13	"2,8 %-os tartós tej"	500	2000.6.11 0:00:00	2	"l"	132,00 Ft	1000,00	"tej, tejtermék"	0
+14	"5 %-os tejföl"	650	2000.8.2 0:00:00	1	"2 dl-es pohár"	52,00 Ft	240,00	"tej, tejtermék"	1
+15	"Mustár"	150	2000.5.12 0:00:00	3	"tubus"	80,00 Ft	350,00	"fûszer"	0
+16	"10 %-os tejfel"	800	2000.9.24 14:36:02	1	"2 dl-es pohár"	54,00 Ft	300,00	"tej, tejtermék"	0
+17	"Étolaj"	3500	2000.8.24 0:00:00	12	"l"	250,00 Ft	210,00	"zsiradék"	0
+18	"Paradicsom püré"	120	2000.2.24 14:37:12	24	"db"	45,00 Ft	200,00	"konzerv"	0
+19	"Májkonzerv"	1500	2000.1.24 14:38:00	36	"db"	44,00 Ft	500,00	"konzerv"	0
+20	"Kocka tészta"	1000	2000.8.24 14:38:38	12	"0,5 kg zacskó"	125,00 Ft	250,00	"tészta"	0
+21	"Spagetti"	1000	2000.2.24 14:39:26	12	"0,5 kg zacskó"	135,00 Ft	300,00	"tészta"	0
+22	"Makaróni"	1000	2000.3.24 14:40:30	12	"0,5 kg zacskó"	130,00 Ft	250,00	"tészta"	0
+23	"Csigatészta"	1000	2000.3.24 14:40:54	12	"0,5 kg zacskó"	140,00 Ft	450,00	"tészta"	0
+24	"Teavaj"	650	2000.8.24 14:41:31	1	"10 dkg-s csomag"	85,00 Ft	500,00	"tej, tejtermék"	0
+25	"Liga margarin"	2500	2000.9.24 14:42:02	3	"50 dkg-s csomag"	240,00 Ft	210,00	"zsiradék"	1
+26	"Rama margarin"	3000	2000.9.24 16:56:24	3	"50 dkg-s csomag"	280,00 Ft	315,00	"zsiradék"	0
+27	"Mirelit bab"	1200	2000.9.24 16:56:29	6	"zacskó"	210,00 Ft	450,00	"készétel"	0
+28	"Mirelit borsó"	1250	2000.9.24 16:57:37	6	"zacskó"	250,00 Ft	580,00	"készétel"	0
+29	"Mirelit sóska"	1100	2000.9.24 16:58:22	6	"zacskó"	220,00 Ft	240,00	"készétel"	1
+30	"Mirelit paraj"	1100	2000.9.24 16:58:48	6	"zacskó"	200,00 Ft	180,00	"készétel"	1
+31	"Mirelit tonhal"	2100	2000.8.24 16:59:15	4	"doboz"	540,00 Ft	250,00	"készétel"	1
+32	"Mirelit kagyló"	840	2000.6.24 16:59:45	4	"doboz"	1250,00 Ft	50,00	"készétel"	0
+33	"Mirelit paradicsom"	680	2000.7.24 17:00:11	6	"zacskó"	420,00 Ft	180,00	"készétel"	0
+34	"Mirelit paprika"	630	2000.7.14 0:00:00	6	"zacskó"	520,00 Ft	180,00	"készétel"	0
+35	"Mirelit tök"	580	2000.7.8 0:00:00	6	"zacskó"	420,00 Ft	210,00	"készétel"	0

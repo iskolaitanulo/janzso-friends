@@ -1,0 +1,28 @@
+A PROJECT:
+Csapattagok: Sólya József, Kószó Milán, Venczel Szabolcs
+
+DOKUMENTÁCIÓ:
+Project kezdete: 2022.10.10 19:00
+Közösen megcsináltuk a kisvállalati hálózatot (ssh-val és dhcp-vel) a packet tracer program segitségével :)
+
+
+Módosítások: 2022.10.11 10:10
+Újrakonfiguráltuk az egészet verzióhiba miatt
+project vége:2022.10.11. 10:23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

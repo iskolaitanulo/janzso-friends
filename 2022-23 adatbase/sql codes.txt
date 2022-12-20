@@ -1,0 +1,21 @@
+Create database nev
+use nev
+Collate rendezési_sorrend
+default character set='utf-8'
+drop nev
+------------------------------------
+CREATE TABLE nev (
+	id int(6) pirmary key not null
+ 	valami VARCHAR(20) NOT NULL
+	valami int not null
+)
+SELECT = FROM 'dolgozo'
+
+INSERT INTO tabla (szam,nev.masiknev) VALUE (656546,dasdas,asdsad)
+
+UPDATE munkas SET vezeteknev='Kis' where id=7563
+
+Delete FROM tábla Where id=2134
+-----------------------------------
+drop table if exists tabla;
+constraint nev pimary key (id);
